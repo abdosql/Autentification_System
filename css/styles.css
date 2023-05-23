@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Montserrat-bold;
+    src: url("fonts/static/Montserrat-bold");
+}
+#header-wrapper {
+    background: url(../imgs/header.jpg) no-repeat;
+    background-position: bottom;
+    background-size: 89%;
+    background-size: 100%;
+}
+.navigation ul{
+    font-family: Oswald,sans-serif;
+    text-transform: uppercase;
+    font-weight: bolder ;
+}
